@@ -4,7 +4,10 @@
       "underscore": "1.5.2", 
       "mongodb": "2.0.35",
       "mocha": "2.2.4",
-      "asserts": "4.0.2"
+      "asserts": "4.0.2",
+      "express": "4.12.3",
+      "superagent": "1.2.0",
+      "wagner-core": "0.0.7"
   },
   "scripts": {
       "test": "mocha test.js",
